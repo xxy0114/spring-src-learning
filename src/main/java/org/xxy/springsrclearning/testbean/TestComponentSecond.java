@@ -1,8 +1,8 @@
-package org.xxy.springsrclearning.testBean;
+package org.xxy.springsrclearning.testbean;
 
 import org.springframework.stereotype.Component;
 
 @Component
-public class Test2 {
+public class TestComponentSecond {
     private String name;
 }
